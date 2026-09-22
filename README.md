@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to add annotations to a Syncfusion Blazor Chart. The implementation focuses on displaying custom annotation content within the chart area and positioning annotations using coordinate-based settings. The sample illustrates how annotations can be used to emphasize important data points, provide contextual information, and improve chart readability without modifying the underlying data series.
+This sample demonstrates how to add annotations to a Syncfusion [Blazor Chart](https://www.syncfusion.com/blazor-components/blazor-charts). The implementation focuses on displaying custom annotation content within the chart area and positioning annotations using coordinate-based settings. The sample illustrates how annotations can be used to emphasize important data points, provide contextual information, and improve chart readability without modifying the underlying data series.
 
 ## Key Features
 
